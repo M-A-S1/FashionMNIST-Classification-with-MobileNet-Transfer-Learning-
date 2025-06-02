@@ -53,7 +53,7 @@ We use `MobileNetV2` (pretrained on ImageNet) as a frozen feature extractor and 
 
 Below are some predictions made by the model:
 
-![FashionMNIST Examples](readme_images/output_image_1.png)
+![FashionMNIST Examples](shoe.png)
 
 ---
 
@@ -61,7 +61,7 @@ Below are some predictions made by the model:
 
 Model performance across all 10 classes:
 
-![Confusion Matrix](readme_images/output_image_2.png)
+![Confusion Matrix](output.png)
 
 ---
 
