@@ -49,9 +49,7 @@ We use `MobileNetV2` (pretrained on ImageNet) as a frozen feature extractor and 
 
 ---
 
-## 🔍 Sample Predictions
-
-Below are some predictions made by the model:
+## 🔍 FashionMNIST Example
 
 ![FashionMNIST Examples](shoe.png)
 
